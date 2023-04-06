@@ -1,0 +1,12 @@
+mystr = "Sejal is a good girl"
+print(len(mystr))
+print(mystr)
+print(mystr[0:4])
+print(mystr.capitalize())
+print(mystr.lower())
+print(mystr.upper())
+print(mystr.capitalize())
+print(mystr.capitalize())
+print(mystr.count("o"))
+print(mystr.find("is"))
+print(mystr.replace("is","are"))
